@@ -4,6 +4,8 @@ assets = [
     ("Assests/icon.png", "Assests/icon.png"),
     ("Assests/cube.png", "Assests/cube.png"),
     ("Assests/font.ttf", "Assests/font.ttf"),
+    ("Assests/up.png", "Assests/up.png"),
+    ("Assests/circle.png", "Assests/circle.png"),
 ]
 
 setup(
